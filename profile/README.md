@@ -4,6 +4,4 @@ Welcome to OpenAC! We’re here to provide you with top-tier anticheat solutions
 
 ## Get Started
 
-To integrate OpenAC into your game, check out our [API documentation](https://github.com/Open-AC/oac-api) for detailed instructions. 
-
-Feel free to reach out if you have any questions or need support—we’re here to help on our [Discord Server!](https://discord.gg/mWHmJgGtuP)
+To integrate OpenAC into your game, if you have any questions, or if you need support, join our [Discord Server](https://discord.gg/mWHmJgGtuP)!
